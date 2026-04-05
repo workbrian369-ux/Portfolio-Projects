@@ -5,4 +5,4 @@ plotly
 scikit-learn
 statsmodels
 prophet
-pmdarima # optional but recommended
+pmdarima
